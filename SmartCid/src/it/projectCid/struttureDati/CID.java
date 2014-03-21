@@ -4,7 +4,7 @@ package it.projectCid.struttureDati;
  * Oggetto rappresentate la struttura del modulo CID
  */
 public class CID {
-	
+	//commento
 	ModuloIntestazione intestazione;
 	ModuloVeicolo veicoloA, veicoloB;
 	ModuloCircostanzeIncidente circostanzeIncidente;
